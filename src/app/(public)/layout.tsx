@@ -7,8 +7,8 @@ import { PublicProvider } from './ctx'
 
 export const metadata: Metadata = {
   title: {
-    default: WEBSITE_NAME,
-    template: '%s - ' + WEBSITE_NAME,
+    default: "曾胖的黑盒",
+    template: '%s - ' +  "曾胖的黑盒",
   },
 }
 
